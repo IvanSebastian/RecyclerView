@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Recycle View</string>
+    <string-array name="programming_langugage">
+        <item>C++</item>
+        <item>C#</item>
+         <item>Java</item>
+        <item>JavaScript</item>
+        <item>Kotlin</item>
+        <item>Phyton</item>
+        <item>Ruby</item>
+        <item>Swift</item>
+        <item>TypeScript</item>
+        <item>Visual Studio</item>
+    </string-array>
+    
+    <string-array name="description">
+        <item>This is random Description</item>
+        <item>This is random Description</item>
+        <item>This is random Description</item>
+        <item>This is random Description</item>
+        <item>This is random Description</item>
+        <item>This is random Description</item>
+        <item>This is random Description</item>
+        <item>This is random Description</item>
+        <item>This is random Description</item>
+        <item>This is random Description</item>
+
+    </string-array>
+</resources>
